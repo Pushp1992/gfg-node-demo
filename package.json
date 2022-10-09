@@ -9,6 +9,10 @@
   "author": "pushp singh",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1"
+    "axios": "^1.1.2",
+    "express": "^4.18.1",
+    "node-fetch": "^2.6.7",
+    "xhr2": "^0.2.1",
+    "xmlhttprequest": "^1.8.0"
   }
 }
