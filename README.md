@@ -21,9 +21,22 @@
 7. Creating MOCK API server
 8. Understanding CRUD and HTTP verbs (verbose) Method
 
+### Session 3 (Error handling, HTTP code, SQL and NoSQL Databse)
+1. try - write a logic which might result out in an  error
+2. catch - it is a block of code, which catch error thrown by try block
+3. throw - helps you to write your own custom error mesages
+4. finally - it helps you to execute your code irrespective of try  and catch.
+
+5. HTTP code
+6. Mongo DB
+7. PostgreSQL (post-gres-QL) (ORDBMS - Object relational DBMS)
+8. Sqlite3
+
 
 ### Event Loop
 
 <img src="./images/event-loop.png" alt="Alt text" title="Optional title">
 
+
+ERROR: it is an object with key: value pair
 
